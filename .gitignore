@@ -1,0 +1,10 @@
+# Compiled python modules
+*.pyc
+
+# Setuptools distribution folder
+/dist/
+/build/
+/*egg-info
+
+# Pycharm stuff
+.idea/
